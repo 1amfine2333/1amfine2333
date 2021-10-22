@@ -1,4 +1,4 @@
-### Hi there 👋
+### 尽可能努力生活的人 👋
 
 <!--
 **1amfine2333/1amfine2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=1amfine2333&show_icons=true&theme=dark&count_private=true"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1amfine2333&theme=dark&layout=compact" /></a> |
+| ------------- | ------------- |
